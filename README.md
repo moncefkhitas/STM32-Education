@@ -125,8 +125,8 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-Your Name
-[GitHub Profile](https://github.com/your-username)
+moncef khitas
+[GitHub Profile](https://github.com/moncefkhitas)
 
 ---
 
