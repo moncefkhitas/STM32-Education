@@ -1,0 +1,75 @@
+# =========================
+
+# STM32CubeIDE
+
+# =========================
+
+# Build folders
+
+Debug/
+Release/
+build/
+
+# Object and binary files
+
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# STM32CubeIDE project settings
+
+.settings/
+.project
+.cproject
+
+# Logs
+
+*.log
+
+# =========================
+
+# Eclipse-related (CubeIDE base)
+
+# =========================
+
+.metadata/
+*.launch
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Bytecode
+
+**pycache**/
+*.pyc
+*.pyo
+
+# Virtual environments
+
+venv/
+.env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# =========================
+
+# Misc
+
+# =========================
+
+*.tmp
+*.swp
+*~
